@@ -57,7 +57,7 @@
 				"          rate_14_day as string,",
 				"          source as string",
 				"     ),",
-				"     allowSchemaDrift: false,",
+				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     ignoreNoFilesFound: false) ~> CasesAndDeathSource",
 				"source(output(",
