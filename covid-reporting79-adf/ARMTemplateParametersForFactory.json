@@ -35,7 +35,7 @@
 		"ls_sql_covid_db_properties_typeProperties_userName": {
 			"value": "izasahmd"
 		},
-		"tr_ingest_population_data_properties_typeProperties_scope": {
+		"tr_population_data_arrived_properties_typeProperties_scope": {
 			"value": "/subscriptions/f97a7693-1f77-43fb-9961-8e77b2b88f0a/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/covidreportingsa790"
 		}
 	}
